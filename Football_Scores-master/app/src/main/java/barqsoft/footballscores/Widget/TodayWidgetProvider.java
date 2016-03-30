@@ -13,7 +13,7 @@ import barqsoft.footballscores.service.myFetchService;
  * Created by Admin on 29/03/2016.
  */
 public class TodayWidgetProvider extends AppWidgetProvider {
-    // update widget
+    // update the widget
     @Override
     public void onUpdate(Context context, AppWidgetManager appWidgetManager, int[] appWidgetIds) {
         context.startService(new Intent(context, TodayWidgetIntentService.class));
@@ -23,7 +23,7 @@ public class TodayWidgetProvider extends AppWidgetProvider {
     public void onAppWidgetOptionsChanged(Context context, AppWidgetManager appWidgetManager, int appWidgetId, Bundle newOptions) {
         context.startService(new Intent(context, TodayWidgetIntentService.class));
     }
-    // recieve
+    // recieving
     @Override
     public void onReceive(@NonNull Context context, @NonNull Intent intent) {
         super.onReceive(context, intent);
