@@ -16,6 +16,7 @@ public class ConnectionDetector {
     }
 
     public boolean isConnectingToInternet() {
+        // connection of internet is on or off
         ConnectivityManager connectivity = (ConnectivityManager) _context.getSystemService(Context.CONNECTIVITY_SERVICE);
         if (connectivity != null) {
             NetworkInfo[] info = connectivity.getAllNetworkInfo();
