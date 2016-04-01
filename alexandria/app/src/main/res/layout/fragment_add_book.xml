@@ -29,6 +29,7 @@
                 android:maxLines="1"
                 android:minEms="@integer/ean_width"
                 android:paddingRight="20dp"
+                android:paddingEnd="20dp"
                 android:saveEnabled="true" />
 
             <Button
@@ -48,6 +49,8 @@
             android:layout_below="@+id/eancontainer"
             android:layout_marginTop="25dp"
             android:paddingRight="20dp"
+            
+            android:paddingEnd="20dp"
             android:textIsSelectable="true"
             android:textSize="@dimen/head_line"
             android:textStyle="bold" />
@@ -57,6 +60,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignLeft="@+id/eancontainer"
+            android:layout_alignStart="@+id/eancontainer"
             android:layout_below="@+id/bookTitle"
             android:layout_marginTop="10dp"
             android:ellipsize="end"
@@ -107,6 +111,7 @@
                 android:layout_height="fill_parent"
                 android:layout_weight="1"
                 android:drawableLeft="@drawable/ic_action_discard"
+                android:drawableStart="@drawable/ic_action_discard"
                 android:text="@string/cancel_button"
                 android:visibility="invisible" />
 
@@ -118,6 +123,7 @@
                 android:layout_gravity="bottom"
                 android:layout_weight="1"
                 android:drawableLeft="@drawable/ic_action_accept"
+                android:drawableStart="@drawable/ic_action_accept"
                 android:text="@string/ok_button"
                 android:visibility="invisible" />
 
