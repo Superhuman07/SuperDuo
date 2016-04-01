@@ -2,88 +2,60 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\pre-dexed\debug\classes-af927ea85f227a11a4ad819ad5ed16d90d2db66e.jar" />
+        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_32383cab2dcdf654ee88f4f66a17c329fef960f6\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\pre-dexed\debug\classes-d700fd5f4bc646b5bdd3c73efe34b9be203936c4.jar" />
+        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_5457437c2fdd0f9a614fc472321aca7571b1c5f2\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="159012cfb06fa66758910aaae4cfaaefc4da6721">
+        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_76db56706548eaea246c153fdccf564876a34ae6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\jars\classes.jar"
+        jumboMode="true"
         revision="21.1.2"
         sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\pre-dexed\debug\classes-1402759058f27912f35b5080c303d0a320580e29.jar" />
-    </item>
-    <item
-        jar="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-dcc3b4e719696427ae4c7f16af3631dd145a91bc.jar" />
-    </item>
-    <item
-        jar="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\pre-dexed\debug\classes-847f4cd935beaf68477c166a1a2e504ff7006823.jar" />
+        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.journeyapps-zxing-android-embedded-3.0.2_54274aaa67bec391d656b7bed9fe453592572235\classes.dex" />
     </item>
     <item
         jar="C:\Users\Admin\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-d34764b482f25bfc30eedb3141222f9fe4bba841.jar" />
+        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_d34764b482f25bfc30eedb3141222f9fe4bba841\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
+        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
         revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-4236866337e21925cbfcd139a4cd92487d051a2e.jar" />
+        sha1="a1b359965129db9e656c850dcddf6f5b685869b7">
+        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b2dbbdffac805c31df2f888674976f142c15471f\classes.dex" />
     </item>
     <item
         jar="C:\Users\Admin\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="21.1.2"
         sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\pre-dexed\debug\core-3.2.0-66c1edcbe712c3a9316ac04efc7f382b6d49eb35.jar" />
+        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.0_66c1edcbe712c3a9316ac04efc7f382b6d49eb35\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\jacoco\jacocoagent.jar"
-        jumboMode="false"
+        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
         revision="21.1.2"
-        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent-207f27fce49a45737864bf8d31709967e81629e7.jar" />
-    </item>
-    <item
-        jar="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\pre-dexed\debug\classes-0269562c2765ab9f00ab87ec853bdc2f1f484057.jar" />
-    </item>
-    <item
-        jar="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="744a4b394a9a7db8a4c4680836d8544802a9cd64">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\pre-dexed\debug\classes-011981e8848f445784a304697ee32878d03470fb.jar" />
-    </item>
-    <item
-        jar="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\jacoco\jacocoagent.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo-master\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent-15800777c52215fcea6bd8529ac0520ab9a70aa0.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_14028ef61ff5a1615123bfb5b003240561958441\classes.dex" />
     </item>
 
 </items>
