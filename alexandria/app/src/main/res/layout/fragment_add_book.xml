@@ -29,6 +29,8 @@
                 android:maxLines="1"
                 android:minEms="@integer/ean_width"
                 android:paddingRight="20dp"
+                android:paddingStart="20dp"
+                android:paddingLeft="20dp"
                 android:paddingEnd="20dp"
                 android:saveEnabled="true" />
 
@@ -49,7 +51,8 @@
             android:layout_below="@+id/eancontainer"
             android:layout_marginTop="25dp"
             android:paddingRight="20dp"
-            
+            android:paddingStart="20dp"
+            android:paddingLeft="20dp"
             android:paddingEnd="20dp"
             android:textIsSelectable="true"
             android:textSize="@dimen/head_line"
