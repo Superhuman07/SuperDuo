@@ -2,18 +2,18 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\pre-dexed\debug\classes-d700fd5f4bc646b5bdd3c73efe34b9be203936c4.jar" />
-    </item>
-    <item
         jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
         <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\pre-dexed\debug\classes-af927ea85f227a11a4ad819ad5ed16d90d2db66e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\pre-dexed\debug\classes-d700fd5f4bc646b5bdd3c73efe34b9be203936c4.jar" />
     </item>
     <item
         jar="C:\Users\Admin\Desktop\SuperDuo\alexandria\app\build\intermediates\exploded-aar\com.journeyapps\zxing-android-embedded\3.0.2\classes.jar"
